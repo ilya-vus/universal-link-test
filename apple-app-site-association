@@ -5,7 +5,7 @@
                 "appIDs": ["DQQ2C72WXL.ru.ufanet.MyUfanet"],
                 "components": [
                    {
-                      "/": "/partners"
+                      "/": "*"
                    }
                 ]
             }
