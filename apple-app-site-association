@@ -1,15 +1,13 @@
 {
-    "applinks": {
-        "apps": [],
-        "details": [
-            {
-                "appIDs": ["DQQ2C72WXL.ru.ufanet.MyUfanet"],
-                "components": [
-                   {
-                      "/": "/*"
-                   }
-                ]
-            }
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "DQQ2C72WXL.ru.ufanet.MyUfanet",
+        "paths": [
+          "*"
         ]
-    }
+      }
+    ]
+  }
 }
